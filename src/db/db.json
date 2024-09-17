@@ -1,72 +1,44 @@
 [
   {
-    "id": "359bb2aa-ef19-44fd-8264-df3c197914fd",
-    "name": "Brendan Reynolds",
-    "phone": "1-219-704-5287",
-    "email": "Madisyn.Breitenberg@yahoo.com",
-    "job": "Global Functionality Coordinator"
+    "id": "85619b9d-fd26-4385-a1ef-e07eac12118b",
+    "name": "Kara Jones",
+    "phone": "505.367.4069",
+    "email": "Kayley_Von@hotmail.com",
+    "job": "National Marketing Liaison"
   },
   {
-    "id": "184bc818-f7dd-472d-a412-dc703428adb4",
-    "name": "Leslie Yundt MD",
-    "phone": "412-501-6340 x7411",
-    "email": "Jett45@hotmail.com",
-    "job": "Lead Accounts Engineer"
+    "id": "a878542f-0a4b-4ead-a767-d270065509ab",
+    "name": "Jean Kassulke",
+    "phone": "(386) 985-5076 x6115",
+    "email": "Wiley_Hegmann67@gmail.com",
+    "job": "Global Accounts Designer"
   },
   {
-    "id": "294e8c1d-9dba-48aa-8ba5-3e5f254b94bf",
-    "name": "Todd Beier",
-    "phone": "(416) 513-9074",
-    "email": "Sedrick_Raynor67@hotmail.com",
-    "job": "Dynamic Factors Producer"
+    "id": "0f0230c4-27f1-4b66-9ac6-125f597e86ed",
+    "name": "Monique Crona",
+    "phone": "387.757.8784 x8065",
+    "email": "Judge.Cruickshank@gmail.com",
+    "job": "Human Branding Analyst"
   },
   {
-    "id": "e29b3053-c231-4304-90b7-a33819bcce65",
-    "name": "Lora Schumm",
-    "phone": "1-736-617-9893 x69290",
-    "email": "Rosalinda.Cummerata33@yahoo.com",
-    "job": "Corporate Infrastructure Administrator"
+    "id": "52ca2cbc-7171-4911-ba5e-f54327349c08",
+    "name": "Carole Robel MD",
+    "phone": "585-478-5230 x920",
+    "email": "Tina_Smith90@yahoo.com",
+    "job": "Investor Functionality Manager"
   },
   {
-    "id": "44376377-b27e-42b0-aa96-34ec6ac56cd9",
-    "name": "Morris Kohler",
-    "phone": "1-494-414-2211 x856",
-    "email": "Junior82@gmail.com",
-    "job": "Customer Branding Manager"
+    "id": "3eccdf8e-43e2-408e-8d9a-450cdffff532",
+    "name": "Ben Pfeffer MD",
+    "phone": "238.577.3584 x120",
+    "email": "Ewald_DuBuque@hotmail.com",
+    "job": "National Infrastructure Coordinator"
   },
   {
-    "id": "1ae74103-1d57-4711-be65-6885837c10e3",
-    "name": "Ricardo Dicki",
-    "phone": "(920) 608-2728 x59128",
-    "email": "Jeanette.Klocko@yahoo.com",
-    "job": "Senior Configuration Liaison"
-  },
-  {
-    "id": "4a2866a6-a92f-4c74-a331-5d607e996c39",
-    "name": "Sheryl Predovic",
-    "phone": "1-692-905-3863 x96577",
-    "email": "Eric_Stracke48@hotmail.com",
-    "job": "Direct Response Producer"
-  },
-  {
-    "id": "96a60733-d798-490d-9deb-52794cb09502",
-    "name": "Crystal Cole",
-    "phone": "422.523.3178 x14557",
-    "email": "Brendan16@gmail.com",
-    "job": "Chief Quality Agent"
-  },
-  {
-    "id": "fbc39b70-7634-43b0-9a5a-78aed2edb73b",
-    "name": "Alison Schmitt",
-    "phone": "(807) 662-9268",
-    "email": "Cindy35@gmail.com",
-    "job": "Dynamic Solutions Coordinator"
-  },
-  {
-    "id": "8500dc72-2d8f-4573-ab54-27816357abdb",
-    "name": "Ramiro VonRueden",
-    "phone": "(516) 583-8379",
-    "email": "Candice_Mills@gmail.com",
-    "job": "International Applications Developer"
+    "id": "005dd21b-49f4-42a0-8a78-70e5cf54159c",
+    "name": "Dorothy Lindgren",
+    "phone": "1-908-680-0526 x95645",
+    "email": "Santino_Zboncak5@yahoo.com",
+    "job": "Customer Configuration Supervisor"
   }
 ]
